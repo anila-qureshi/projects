@@ -6,8 +6,8 @@ from sqlalchemy import create_engine
 db_params = {
  'host': 'localhost'
 , 'database': 'postgres'
-, 'user': 'anilaqureshi'
-, 'password': ''
+, 'user': 'your user name inserted here'
+, 'password': 'your password here'
 }
 
 # Function to create a new database
